@@ -1,0 +1,67 @@
+/Users/mahelitisha/PycharmProjects/pythonProject3/.venv/bin/python /Users/mahelitisha/PycharmProjects/pythonProject3/Assignment3.py
+question q1
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_identity is_total, True, is_partial True, is_injective True, is_bijective True
+{0, 1, 2, 3, 4, 5, 6, 7, 8} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_predecessor is_total, False, is_partial True, is_injective True, is_bijective False
+{1, 2, 3, 4, 5, 6, 7, 8, 9} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_successor is_total, False, is_partial True, is_injective True, is_bijective False
+{0, 1, 4, 9} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_square is_total, False, is_partial True, is_injective True, is_bijective False
+
+question q2
+Union  {'a', 'abcd', 'abc', 'dddd', 'ccc', 'ab', 'bb'}
+Intersection  {'bb', 'ccc', 'dddd', 'a'}
+Difference  None
+Symmetric Difference  None
+Cartesian Product {('abcd', 'bb'), ('abc', 'ccc'), ('abc', 'bb'), ('ab', 'a'), ('abcd', 'dddd'), ('ab', 'ccc'), ('ab', 'bb'), ('abc', 'dddd'), ('abcd', 'a'), ('abcd', 'ccc'), ('ab', 'dddd'), ('abc', 'a')}
+Power Set [(), ('abcd',), ('abc',), ('ab',), ('abcd', 'abc'), ('abcd', 'ab'), ('abc', 'ab'), ('abcd', 'abc', 'ab')]
+Power Set [(), ('bb',), ('ccc',), ('dddd',), ('a',), ('bb', 'ccc'), ('bb', 'dddd'), ('bb', 'a'), ('ccc', 'dddd'), ('ccc', 'a'), ('dddd', 'a'), ('bb', 'ccc', 'dddd'), ('bb', 'ccc', 'a'), ('bb', 'dddd', 'a'), ('ccc', 'dddd', 'a'), ('bb', 'ccc', 'dddd', 'a')]
+
+question q3
+Sum counting numbers:  55 55.0
+Sum squares:  385 385.0
+Sum cubes:  3025 3025.0
+Sum geometric:  362797055 362797055.0
+Sum arithmetic :  275 275.0
+
+question q4
+[[12  4  7 14 13]
+ [10 14 12 17  8]
+ [15  8  7 14 17]
+ [ 3 11 15 10 11]
+ [ 6  9 14 20 11]]
+
+[[12  4  7 14 13]
+ [10 14 12 17  8]
+ [15  8  7 14 17]
+ [ 3 11 15 10 11]
+ [ 6  9 14 20 11]]
+
+[[126 176 204 244 178]
+ [ 97 141 160 204 206]
+ [ 96 129 151 181 137]
+ [100 137 127 166 174]
+ [105 163 180 213 160]]
+
+[[126 176 204 244 178]
+ [ 97 141 160 204 206]
+ [ 96 129 151 181 137]
+ [100 137 127 166 174]
+ [105 163 180 213 160]]
+
+
+question q5
+Old number: 0.010011 0.296875
+Old number: 0.101010 0.65625
+Old number: 0.111000 0.875
+Old number: 0.000111 0.109375
+Old number: 0.111111 0.984375
+Old number: 0.111000 0.875
+New number: 0.110001 0.765625
+
+question q6
+skip question 6
+
+
+Process finished with exit code 0
